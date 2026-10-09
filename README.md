@@ -32,6 +32,15 @@
 
 每本都提供 `<书名>.pdf` / `<书名>.epub` / `<书名>.md`.
 
+### 4. Pandas 中文文档
+
+Pandas 官方文档中文版 (数据清洗 / 分析工具集).
+
+- 源: <https://github.com/teadocs/pandas-cn> · 在线: <https://www.pypandas.cn>
+- 许可: CC BY-NC-SA 3.0 CN
+- 注意: 原文档图片托管在已失效的 CDN 上, 故电子书内部分图片缺失.
+- 目录: [`pandas-cn/`](pandas-cn)
+
 ## 许可与致谢
 
 各书版权归原作者及译者所有, 均按其原始许可分发 (见各书目录).
