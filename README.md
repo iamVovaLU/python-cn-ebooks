@@ -41,6 +41,14 @@ Pandas 官方文档中文版 (数据清洗 / 分析工具集).
 - 注意: 原文档图片托管在已失效的 CDN 上, 故电子书内部分图片缺失.
 - 目录: [`pandas-cn/`](pandas-cn)
 
+### 5. Python 官方中文文档 (教程 / 库参考 / 语言参考 ...)
+
+Python 官方文档简体中文版 (全量): 教程、标准库参考、语言参考、HOWTO、FAQ 等.
+
+- 源: <https://docs.python.org/zh-cn/3/> · 许可: PSF License (可自由分发)
+- EPUB 为官方直接提供的版本; PDF / Markdown 由该 EPUB 转换而来 (PDF 6792 页).
+- 目录: [`python-docs-zh/`](python-docs-zh)
+
 ## 许可与致谢
 
 各书版权归原作者及译者所有, 均按其原始许可分发 (见各书目录).
