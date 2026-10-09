@@ -6,19 +6,33 @@
 
 ## 收录
 
-### Python 进阶 (Intermediate Python 中文版)
+### 1. Python 进阶 (Intermediate Python 中文版)
 
-- 讲透 Python 的语法与"语法糖": 装饰器 (decorators) / 上下文管理器 (with) / *args **kwargs / 推导式 / 生成器 / 魔术方法 等.
+讲透 Python 的语法与"语法糖": 装饰器 (decorators) / 上下文管理器 (with) / `*args` `**kwargs` / 推导式 / 生成器 / 魔术方法 等.
+
 - 源: <https://github.com/eastlakeside/interpy-zh> · 在线: <https://py.eastlakeside.cn>
 - 许可: Apache License 2.0
+- 目录: [`python-advance/`](python-advance)
 
-| 格式 | 文件 |
-|---|---|
-| PDF | [Python进阶.pdf](python-advance/Python进阶.pdf) |
-| EPUB | [Python进阶.epub](python-advance/Python进阶.epub) |
-| Markdown | [Python进阶.md](python-advance/Python进阶.md) |
+### 2. Python 最佳实践指南 (The Hitchhiker's Guide to Python 中文版)
+
+安装 / 配置 / 日常使用的工程最佳实践手册.
+
+- 源: <https://github.com/prodesire/Python-Guide-CN>
+- 许可: CC BY-NC-SA 3.0
+- 目录: [`python-guide-cn/`](python-guide-cn)
+
+### 3. Hello 算法
+
+动画图解、一键运行的数据结构与算法教程 (含 Python 实现).
+
+- 源: <https://github.com/krahets/hello-algo> · 在线: <https://www.hello-algo.com>
+- 许可: CC BY-NC-SA 4.0
+- 目录: [`hello-algo/`](hello-algo)
+
+每本都提供 `<书名>.pdf` / `<书名>.epub` / `<书名>.md`.
 
 ## 许可与致谢
 
-各书版权归原作者及译者所有, 均按其原始许可分发 (见各书目录/README).
-本仓库仅做格式转换与打包.
+各书版权归原作者及译者所有, 均按其原始许可分发 (见各书目录).
+本仓库仅做格式转换与打包, 未修改内容.
